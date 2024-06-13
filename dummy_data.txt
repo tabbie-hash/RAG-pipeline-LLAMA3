@@ -1,0 +1,100 @@
+A000 is the icd code for Cholera due to Vibrio cholerae 01, biovar cholerae
+A001 is the icd code for Cholera due to Vibrio cholerae 01, biovar eltor
+A009 is the icd code for Cholera, unspecified
+A0100 is the icd code for Typhoid fever, unspecified
+A0101 is the icd code for Typhoid meningitis
+A0102 is the icd code for Typhoid fever with heart involvement
+A0103 is the icd code for Typhoid pneumonia
+A0104 is the icd code for Typhoid arthritis
+A0105 is the icd code for Typhoid osteomyelitis
+A0109 is the icd code for Typhoid fever with other complications
+A011 is the icd code for Paratyphoid fever A
+A012 is the icd code for Paratyphoid fever B
+A013 is the icd code for Paratyphoid fever C
+A014 is the icd code for Paratyphoid fever, unspecified
+A020 is the icd code for Salmonella enteritis
+A021 is the icd code for Salmonella sepsis
+A0220 is the icd code for Localized salmonella infection, unspecified
+A0221 is the icd code for Salmonella meningitis
+A0222 is the icd code for Salmonella pneumonia
+A0223 is the icd code for Salmonella arthritis
+A0224 is the icd code for Salmonella osteomyelitis
+A0225 is the icd code for Salmonella pyelonephritis
+A0229 is the icd code for Salmonella with other localized infection
+A028 is the icd code for Other specified salmonella infections
+A029 is the icd code for Salmonella infection, unspecified
+A030 is the icd code for Shigellosis due to Shigella dysenteriae
+A031 is the icd code for Shigellosis due to Shigella flexneri
+A032 is the icd code for Shigellosis due to Shigella boydii
+A033 is the icd code for Shigellosis due to Shigella sonnei
+A038 is the icd code for Other shigellosis
+A039 is the icd code for Shigellosis, unspecified
+A040 is the icd code for Enteropathogenic Escherichia coli infection
+A041 is the icd code for Enterotoxigenic Escherichia coli infection
+A042 is the icd code for Enteroinvasive Escherichia coli infection
+A043 is the icd code for Enterohemorrhagic Escherichia coli infection
+A044 is the icd code for Other intestinal Escherichia coli infections
+A045 is the icd code for Campylobacter enteritis
+A046 is the icd code for Enteritis due to Yersinia enterocolitica
+A0471 is the icd code for Enterocolitis due to Clostridium difficile, recurrent
+A0472 is the icd code for Enterocolitis due to Clostridium difficile, not specified as recurrent
+A048 is the icd code for Other specified bacterial intestinal infections
+A049 is the icd code for Bacterial intestinal infection, unspecified
+A050 is the icd code for Foodborne staphylococcal intoxication
+A051 is the icd code for Botulism food poisoning
+A052 is the icd code for Foodborne Clostridium perfringens [Clostridium welchii] intoxication
+A053 is the icd code for Foodborne Vibrio parahaemolyticus intoxication
+A054 is the icd code for Foodborne Bacillus cereus intoxication
+A055 is the icd code for Foodborne Vibrio vulnificus intoxication
+A058 is the icd code for Other specified bacterial foodborne intoxications
+A059 is the icd code for Bacterial foodborne intoxication, unspecified
+A060 is the icd code for Acute amebic dysentery
+A061 is the icd code for Chronic intestinal amebiasis
+A062 is the icd code for Amebic nondysenteric colitis
+A063 is the icd code for Ameboma of intestine
+A064 is the icd code for Amebic liver abscess
+A065 is the icd code for Amebic lung abscess
+A066 is the icd code for Amebic brain abscess
+A067 is the icd code for Cutaneous amebiasis
+A0681 is the icd code for Amebic cystitis
+A0682 is the icd code for Other amebic genitourinary infections
+A0689 is the icd code for Other amebic infections
+A069 is the icd code for Amebiasis, unspecified
+A070 is the icd code for Balantidiasis
+A071 is the icd code for Giardiasis [lambliasis]
+A072 is the icd code for Cryptosporidiosis
+A073 is the icd code for Isosporiasis
+A074 is the icd code for Cyclosporiasis
+A078 is the icd code for Other specified protozoal intestinal diseases
+A079 is the icd code for Protozoal intestinal disease, unspecified
+A080 is the icd code for Rotaviral enteritis
+A0811 is the icd code for Acute gastroenteropathy due to Norwalk agent
+A0819 is the icd code for Acute gastroenteropathy due to other small round viruses
+A082 is the icd code for Adenoviral enteritis
+A0831 is the icd code for Calicivirus enteritis
+A0832 is the icd code for Astrovirus enteritis
+A0839 is the icd code for Other viral enteritis
+A084 is the icd code for Viral intestinal infection, unspecified
+A088 is the icd code for Other specified intestinal infections
+A09 is the icd code for Infectious gastroenteritis and colitis, unspecified
+A150 is the icd code for Tuberculosis of lung
+A154 is the icd code for Tuberculosis of intrathoracic lymph nodes
+A155 is the icd code for Tuberculosis of larynx, trachea and bronchus
+A156 is the icd code for Tuberculous pleurisy
+A157 is the icd code for Primary respiratory tuberculosis
+A158 is the icd code for Other respiratory tuberculosis
+A159 is the icd code for Respiratory tuberculosis unspecified
+A170 is the icd code for Tuberculous meningitis
+A171 is the icd code for Meningeal tuberculoma
+A1781 is the icd code for Tuberculoma of brain and spinal cord
+A1782 is the icd code for Tuberculous meningoencephalitis
+A1783 is the icd code for Tuberculous neuritis
+A1789 is the icd code for Other tuberculosis of nervous system
+A179 is the icd code for Tuberculosis of nervous system, unspecified
+A1801 is the icd code for Tuberculosis of spine
+A1802 is the icd code for Tuberculous arthritis of other joints
+A1803 is the icd code for Tuberculosis of other bones
+A1809 is the icd code for Other musculoskeletal tuberculosis
+A1810 is the icd code for Tuberculosis of genitourinary system, unspecified
+A1811 is the icd code for Tuberculosis of kidney and ureter
+A1812 is the icd code for Tuberculosis of bladder
